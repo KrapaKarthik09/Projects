@@ -80,8 +80,8 @@ class operations:
                 webbrowser.open("instagram.com")
             elif "open snaptube" in query:
                 webbrowser.open("snaptube.com")
-            elif "open youtube vanced" in query:
-                webbrowser.open("youtubevanced.com")
+            elif "open youtube" in query:
+                webbrowser.open("youtube.com")
             elif "open translator" in query:
                 webbrowser.open("googletranslator.com")
             elif "open goodreads" in query:
