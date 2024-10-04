@@ -1,4 +1,4 @@
-# Project-1
+# Notepad with Speech Recognition Assistant
 In the first python class of my CS degree, along with few classmates we developed this mini-project.
 This project is developed using python and other libraries which I will be briefing about a little over here.
 
